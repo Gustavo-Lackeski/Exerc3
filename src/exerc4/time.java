@@ -1,8 +1,8 @@
 
 package exerc4;
 public class time {
-    int hour;
-    int minute;
+    private int hour;
+    private int minute;
     time (){} ;
     void setH(int x){
         hour = x;
